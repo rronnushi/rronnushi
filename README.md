@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @rronnushi
+- 👀 I’m interested in Product & Design
+- 🌱 I’m currently trying to learn how to create products using as little code as possible
+- 💞️ I’m looking to collaborate on any creative software to generate images and UIs
+- 📫 Check out my website: rron.nl
